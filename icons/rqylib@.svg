@@ -1,0 +1,108 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="8" y="8" width="240" height="240" fill="url(#paint0_linear_1_6)" stroke="url(#paint1_diamond_1_6)" stroke-width="16"/>
+<path d="M84 191H109V196H84V191Z" fill="url(#paint2_diamond_1_6)"/>
+<path d="M89 191L89 216H84L84 191H89Z" fill="url(#paint3_diamond_1_6)"/>
+<path d="M139 191V216H134V191H139Z" fill="url(#paint4_diamond_1_6)"/>
+<path d="M149 191V216H144V191H149Z" fill="url(#paint5_diamond_1_6)"/>
+<path d="M169 191V221H164V191H169Z" fill="url(#paint6_diamond_1_6)"/>
+<path d="M179 181V216H174V181L179 181Z" fill="url(#paint7_diamond_1_6)"/>
+<path d="M194 191V216H189V191H194Z" fill="url(#paint8_diamond_1_6)"/>
+<path d="M204 181V216H199V181L204 181Z" fill="url(#paint9_diamond_1_6)"/>
+<path d="M194 181V186H189V181L194 181Z" fill="url(#paint10_diamond_1_6)"/>
+<path d="M184 211V216H179V211H184Z" fill="url(#paint11_diamond_1_6)"/>
+<path d="M119 206V211H114V206H119Z" fill="url(#paint12_diamond_1_6)"/>
+<path d="M224 191V216H219V191H224Z" fill="url(#paint13_diamond_1_6)"/>
+<path d="M114 191H139L139 196H114V191Z" fill="url(#paint14_diamond_1_6)"/>
+<path d="M144 211H169V216H144V211Z" fill="url(#paint15_diamond_1_6)"/>
+<path d="M144 221H169V226H144V221Z" fill="url(#paint16_diamond_1_6)"/>
+<path d="M199 211H224V216H199V211Z" fill="url(#paint17_diamond_1_6)"/>
+<path d="M199 191H224V196H199V191Z" fill="url(#paint18_diamond_1_6)"/>
+<path d="M114 201H139V206H114L114 201Z" fill="url(#paint19_diamond_1_6)"/>
+<path d="M114 211H139L139 216H114L114 211Z" fill="url(#paint20_diamond_1_6)"/>
+<defs>
+<linearGradient id="paint0_linear_1_6" x1="128" y1="0" x2="128" y2="256" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00FF38"/>
+<stop offset="1" stop-color="#FF0000"/>
+</linearGradient>
+<radialGradient id="paint1_diamond_1_6" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(128 128) rotate(90) scale(128)">
+<stop stop-color="#EBFF00"/>
+<stop offset="1" stop-color="#0500FF"/>
+</radialGradient>
+<radialGradient id="paint2_diamond_1_6" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(154 203.5) rotate(90) scale(22.5 70)">
+<stop stop-color="#EBFF00"/>
+<stop offset="1" stop-color="#0500FF"/>
+</radialGradient>
+<radialGradient id="paint3_diamond_1_6" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(154 203.5) rotate(90) scale(22.5 70)">
+<stop stop-color="#EBFF00"/>
+<stop offset="1" stop-color="#0500FF"/>
+</radialGradient>
+<radialGradient id="paint4_diamond_1_6" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(154 203.5) rotate(90) scale(22.5 70)">
+<stop stop-color="#EBFF00"/>
+<stop offset="1" stop-color="#0500FF"/>
+</radialGradient>
+<radialGradient id="paint5_diamond_1_6" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(154 203.5) rotate(90) scale(22.5 70)">
+<stop stop-color="#EBFF00"/>
+<stop offset="1" stop-color="#0500FF"/>
+</radialGradient>
+<radialGradient id="paint6_diamond_1_6" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(154 203.5) rotate(90) scale(22.5 70)">
+<stop stop-color="#EBFF00"/>
+<stop offset="1" stop-color="#0500FF"/>
+</radialGradient>
+<radialGradient id="paint7_diamond_1_6" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(154 203.5) rotate(90) scale(22.5 70)">
+<stop stop-color="#EBFF00"/>
+<stop offset="1" stop-color="#0500FF"/>
+</radialGradient>
+<radialGradient id="paint8_diamond_1_6" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(154 203.5) rotate(90) scale(22.5 70)">
+<stop stop-color="#EBFF00"/>
+<stop offset="1" stop-color="#0500FF"/>
+</radialGradient>
+<radialGradient id="paint9_diamond_1_6" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(154 203.5) rotate(90) scale(22.5 70)">
+<stop stop-color="#EBFF00"/>
+<stop offset="1" stop-color="#0500FF"/>
+</radialGradient>
+<radialGradient id="paint10_diamond_1_6" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(154 203.5) rotate(90) scale(22.5 70)">
+<stop stop-color="#EBFF00"/>
+<stop offset="1" stop-color="#0500FF"/>
+</radialGradient>
+<radialGradient id="paint11_diamond_1_6" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(154 203.5) rotate(90) scale(22.5 70)">
+<stop stop-color="#EBFF00"/>
+<stop offset="1" stop-color="#0500FF"/>
+</radialGradient>
+<radialGradient id="paint12_diamond_1_6" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(154 203.5) rotate(90) scale(22.5 70)">
+<stop stop-color="#EBFF00"/>
+<stop offset="1" stop-color="#0500FF"/>
+</radialGradient>
+<radialGradient id="paint13_diamond_1_6" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(154 203.5) rotate(90) scale(22.5 70)">
+<stop stop-color="#EBFF00"/>
+<stop offset="1" stop-color="#0500FF"/>
+</radialGradient>
+<radialGradient id="paint14_diamond_1_6" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(154 203.5) rotate(90) scale(22.5 70)">
+<stop stop-color="#EBFF00"/>
+<stop offset="1" stop-color="#0500FF"/>
+</radialGradient>
+<radialGradient id="paint15_diamond_1_6" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(154 203.5) rotate(90) scale(22.5 70)">
+<stop stop-color="#EBFF00"/>
+<stop offset="1" stop-color="#0500FF"/>
+</radialGradient>
+<radialGradient id="paint16_diamond_1_6" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(154 203.5) rotate(90) scale(22.5 70)">
+<stop stop-color="#EBFF00"/>
+<stop offset="1" stop-color="#0500FF"/>
+</radialGradient>
+<radialGradient id="paint17_diamond_1_6" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(154 203.5) rotate(90) scale(22.5 70)">
+<stop stop-color="#EBFF00"/>
+<stop offset="1" stop-color="#0500FF"/>
+</radialGradient>
+<radialGradient id="paint18_diamond_1_6" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(154 203.5) rotate(90) scale(22.5 70)">
+<stop stop-color="#EBFF00"/>
+<stop offset="1" stop-color="#0500FF"/>
+</radialGradient>
+<radialGradient id="paint19_diamond_1_6" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(154 203.5) rotate(90) scale(22.5 70)">
+<stop stop-color="#EBFF00"/>
+<stop offset="1" stop-color="#0500FF"/>
+</radialGradient>
+<radialGradient id="paint20_diamond_1_6" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(154 203.5) rotate(90) scale(22.5 70)">
+<stop stop-color="#EBFF00"/>
+<stop offset="1" stop-color="#0500FF"/>
+</radialGradient>
+</defs>
+</svg>
